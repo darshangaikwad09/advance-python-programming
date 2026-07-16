@@ -21,4 +21,12 @@ public:
 int main() {
     Student s("Darshan", 19);
     s.display();
+
+    return 0;
 }
+
+/*
+Output:
+Student Name: Darshan
+Student Age: 19
+*/
