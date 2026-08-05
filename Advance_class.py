@@ -48,6 +48,7 @@ current_acc.show_info()
 
 print("\nSaving Plan Amount :", saving_acc.check_amount())
 '''
+output:
 ====== Saving Plan ======
 Customer Name : Amit
 Account Amount: 50000
